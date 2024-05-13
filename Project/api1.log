@@ -1,0 +1,2 @@
+{"level": "error", "log_string": "Failed to connect to database", "timestamp": "2024-05-13T18:05:14.925748Z", "metadata": {"source": "api1"}}
+{"level": "error", "log_string": "Failed to connect to database", "timestamp": "2024-05-13T18:05:19.744917Z", "metadata": {"source": "api1"}}

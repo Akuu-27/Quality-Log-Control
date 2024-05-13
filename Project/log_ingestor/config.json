@@ -1,0 +1,5 @@
+
+{
+    "api1": {"level": "error", "file_path": "log1.log"},
+    "api2": {"level": "info", "file_path": "log2.log"}
+}
